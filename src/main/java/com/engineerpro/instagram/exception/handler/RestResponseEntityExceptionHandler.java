@@ -1,6 +1,5 @@
 package com.engineerpro.instagram.exception.handler;
 
-import com.engineerpro.example.redis.exception.*;
 import com.engineerpro.instagram.exception.*;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

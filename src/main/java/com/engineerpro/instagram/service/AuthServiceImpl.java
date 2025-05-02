@@ -5,8 +5,6 @@ import com.engineerpro.instagram.dto.PasswordLoginRequest;
 import com.engineerpro.instagram.dto.RegisterRequest;
 import com.engineerpro.instagram.dto.oauth_login_request.GoogleLoginRequest;
 import com.engineerpro.instagram.dto.oauth_login_request.Oauth2LoginRequest;
-import com.engineerpro.example.redis.exception.*;
-import com.engineerpro.example.redis.model.*;
 import com.engineerpro.instagram.exception.*;
 import com.engineerpro.instagram.model.*;
 import com.engineerpro.instagram.repository.ProfileRepository;
